@@ -46,11 +46,13 @@ them in the database
 ## Launching the Application
 
 ![Launching the Application](readme/launching_the_application.png)
-Result of running the application using *python plan-uz.py* without specifying any argument.
+
+[Fig.] Result of running the application using *python plan-uz.py* without specifying any argument.
 
 
 ![Launching the Application cont.](readme/launching_the_application_cd.png)
-Launching the application cont...
+
+[Fig.] Launching the application cont...
 
 We then ran our application using the ***python*** command ***plan-uz.py -a***. A dialogue appeared
 taking one of the values:
@@ -61,19 +63,19 @@ selected target as our argument
 
 ## Launching the Application cont...
 
-Downloading directions
-
 ![Downloading directions](readme/downloading_1.png)
 
-End of downloading directions, start of downloading lesson plans.
+[Fig.] Downloading directions
+
 
 ![End of downloading directions, start of downloading lesson plans.](readme/downloading_2.png)
 
+[Fig.] End of downloading directions, start of downloading lesson plans.
 
-The end of downloading lesson plans.
 
 ![The end of downloading lesson plans.](readme/downloading_3.png)
 
+[Fig.] The end of downloading lesson plans.
 
 ## Comparison timetable pages vs data added to the database
 
@@ -82,39 +84,39 @@ The end of downloading lesson plans.
 
 ![Faculties UZ plan](readme/faculties_plan_uz.png)
 
-UZ plan
+[Fig.] UZ plan
 
 
 ![Faculties  Application database](readme/faculties_application_database.png)
 
-Application Database
+[Fig.] Application Database
 
 
 ## List of groups of a particular course
 ![Groups UZ plan](readme/groups_plan_uz.png)
 
-UZ plan
+[Fig.] UZ plan
 
 
 ![Groups Application database](readme/groups_application_database.png)
 
-Application Database
+[Fig.] Application Database
 
 
 ## Timetable
 ![Timetable UZ plan](readme/timetable_plan_uz.png)
 
-UZ plan
+[Fig.] UZ plan
 
 
 ![Timetable Application database](readme/timetable_application_database.png)
 
-Application Database
+[Fig.] Application Database
 
 
 ![Timetable Application database formatted](readme/timetable_application_database_formatted.png)
 
-Application Database formatted
+[Fig.] Application Database formatted
 
 
 
