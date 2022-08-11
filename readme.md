@@ -1,7 +1,7 @@
 # PlanUZ Parser
 ## Web scrapping
 ### University of Zielona Góra timetable
-
+June 2020
 
 ## Technologies and tools
 - **Python** (version 3.7.3.)
@@ -81,15 +81,20 @@ The end of downloading lesson plans.
 
 
 ![Faculties UZ plan](readme/faculties_plan_uz.png)
+
 UZ plan
 
+
 ![Faculties  Application database](readme/faculties_application_database.png)
+
 Application Database
 
 
 ## List of groups of a particular course
 ![Groups UZ plan](readme/groups_plan_uz.png)
+
 UZ plan
+
 
 ![Groups Application database](readme/groups_application_database.png)
 Application Database
@@ -97,12 +102,17 @@ Application Database
 
 ## Timetable
 ![Timetable UZ plan](readme/timetable_plan_uz.png)
+
 UZ plan
 
+
 ![Timetable Application database](readme/timetable_application_database.png)
+
 Application Database
 
+
 ![Timetable Application database formatted](readme/timetable_application_database_formatted.png)
+
 Application Database formatted
 
 
