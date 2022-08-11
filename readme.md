@@ -97,6 +97,7 @@ UZ plan
 
 
 ![Groups Application database](readme/groups_application_database.png)
+
 Application Database
 
 
